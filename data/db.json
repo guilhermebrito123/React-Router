@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Bola quadrada",
+            "price": "200,00",
+            "src": "https://img.br.my-best.com/content_section/choice_component/contents/3ba5137dfc06df02d72f587b2c24479b.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=7a0c609daed6827a6325820ac152fe6d"
+        },
+        {
+            "id": "2",
+            "name": "Bola de tênis",
+            "price": "150,00",
+            "src": "https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass.png"
+        },
+        {
+            "id": "3",
+            "name": "Tênis Adidas",
+            "price": "350,00",
+            "src": "https://backwash.fbitsstatic.net/img/p/tenis-adidas-superstar-night-indigo-98615/371922.jpg?w=800&h=800&v=no-change&qs=ignore"
+        }
+    ]
+}

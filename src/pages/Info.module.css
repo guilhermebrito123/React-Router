@@ -1,0 +1,24 @@
+.info{
+    padding-inline: 10px;
+    padding-block: 7px;
+    background: linear-gradient(to right, rgb(60, 122, 177), rgba(133, 83, 83, 0.473));
+    color: white;
+    width: 25%;
+    margin-inline: auto;
+    border-radius: 20px;
+}
+
+.lista{
+    list-style: none;
+    font-weight: bold;
+}
+
+.item{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.imagem{
+    margin-bottom: 10px;
+    font-size: 25px;
+    width: 15%;
+}
