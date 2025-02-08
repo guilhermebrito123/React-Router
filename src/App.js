@@ -13,7 +13,7 @@ import Navbar from "./Components/Navbar";
 import SearchForm from "./Components/SearchForm";
 
 //React Router config:
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 //Hook:
 import { useState } from "react";
